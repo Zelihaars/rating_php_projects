@@ -9,7 +9,7 @@ include 'components/connect.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>all posts</title>
+    <title>update profile </title>
 
     <!--Css dosya linki-->
     <link rel="stylesheet" href="css/style.css">
